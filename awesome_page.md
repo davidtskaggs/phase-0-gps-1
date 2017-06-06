@@ -1,4 +1,4 @@
-# David and Thomas's Cool Markdown
+# David and Thomas's Cool Markdown 3
 
 **David and Thomas are the best**
 *But of course all at of DBC are amazing*
